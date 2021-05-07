@@ -1,0 +1,90 @@
+.contain {
+  background-color: darkgray;
+  height: 70px;
+  margin: 4px;
+  border-radius: 37px;
+}
+
+.item {
+  color: darkred;
+  list-style-type: none;
+  word-spacing: 90px;
+  font-size: 30px;
+  padding: 15px;
+}
+
+.item a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: darkred;
+  font-size: 30px;
+  color: green;
+}
+
+.items {
+  display: inline;
+}
+
+#last {
+  float: right;
+  word-spacing: normal;
+}
+
+h1 {
+  color: chartreuse;
+  font-family: sans-serif;
+}
+
+p {
+  color: chocolate;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.container {
+  text-align: center;
+  color: red;
+}
+
+#title {
+  width: 1000px;
+  height: 25px;
+}
+
+#description {
+  width: 1000px;
+  height: 50px;
+}
+
+.btn {
+  background-color: blue;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-left: px;
+  background-color: cornflowerblue;
+  margin-right: 100px;
+  color: rgb(19, 4, 4);
+  word-spacing: 45px;
+  width: 500px;
+}
+
+#btn2 {
+  background-color: blue;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 20px;
+}
